@@ -1,7 +1,7 @@
-#EXTINF:-1, TyC Sports tvg-id="TyCSports.ar" tvg-logo="https://statics-files.tycsports.com/frontend/general/img/tyc.svg?v=3 group-title="Deportes",TyC Sports
+#EXTINF:-1, TyC Sports tvg-id="TyCSports.ar" tvg-logo="https://statics-files.tycsports.com/frontend/general/img/tyc.svg?v=3" group-title="Deportes",TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
-#EXTINF:-1, ESPN 4
+#EXTINF:-1, ESPN 4 tvg-id="ESPN4.ar" tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.1522528359_ESPN4_Blanco.png.94baa236c27d1b47d48584df19f07993.png" group-title="Deportes",ESPN 4
 http://clubtv.link/2623mar/top1347/lista3.php?c=a01h
 
 #EXTINF:-1, group-title="Ar", Ar
