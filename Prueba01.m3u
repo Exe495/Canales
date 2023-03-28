@@ -4,7 +4,13 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 #EXTINF:-1, ESPN 4 tvg-id="ESPN4.ar" tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.1522528359_ESPN4_Blanco.png.94baa236c27d1b47d48584df19f07993.png" group-title="Deportes",ESPN 4
 http://clubtv.link/2623mar/top1347/lista3.php?c=a01h
 
-#EXTINF:-1, tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="Canales de Aire",TV Pública
+#EXTINF:-1, tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Aire",A24
+https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+
+#EXTINF:-1 tvg-id="AiredeSantaFe.ar" tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="Aire",Aire de Santa Fe
+https://sc1.stweb.tv/airedigital/live/playlist.m3u8
+
+#EXTINF:-1, tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="Aire",TV Pública
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
 #EXTINF:-1, group-title="Ar", Ar
