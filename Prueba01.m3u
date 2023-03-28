@@ -16,7 +16,7 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 #EXTINF:-1, tvg-id="AmericaTV.ar" tvg-logo="https://media.a24.com/adjuntos/296/imagenes/008/383/0008383157.svg" group-title="Aire",América TV
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
-#EXTINF:-1, tvg-id="CronicaTV.ar" tvg-logo="https://play-lh.googleusercontent.com/kgXOWT_-1jV1MJhBIBtUkvbhFBgBLPD_TkXNW1gYpqq8Uwhsgqw2BT5zhrjL9cb64d49g.png" group-title="Aire" user-agent="iPhone",Crónica TV
+#EXTINF:-1, tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="Aire" user-agent="iPhone",Crónica TV
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 
 #EXTINF:-1, tvg-id="CineAr.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="Películas",CINE.AR
