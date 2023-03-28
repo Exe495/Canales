@@ -14,7 +14,7 @@ https://sc1.stweb.tv/airedigital/live/playlist.m3u8
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
 #EXTINF:-1, tvg-id="AmericaTV.ar" tvg-logo="https://media.a24.com/adjuntos/296/imagenes/008/383/0008383157.svg" group-title="Aire" user-agent="iPhone",América TV
-#EXTVLCOPT:http-user-agent=iPhone https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTVLCOPT:http-user-agent=iPhone,https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
 #EXTINF:-1, tvg-id="CronicaTV.ar" tvg-logo="https://play-lh.googleusercontent.com/kgXOWT_-1jV1MJhBIBtUkvbhFBgBLPD_TkXNW1gYpqq8Uwhsgqw2BT5zhrjL9cb64d49g.png" group-title="Aire" user-agent="iPhone",Crónica TV
 #EXTVLCOPT:http-user-agent=iPhone
