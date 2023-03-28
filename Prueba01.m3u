@@ -1,0 +1,14 @@
+#EXTINF:-1,TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+
+#EXTINF:-1, TyC Sports
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+
+#EXTINF:-1, ESPN 4
+http://clubtv.link/2623mar/top1347/lista3.php?c=a01h
+
+#EXTINF:-1, group-title="Ar", Ar
+https://iptv-org.github.io/iptv/countries/ar.m3u
+
+#EXTINF:-1, group-title="Mas Canales", Mas Canales
+https://pastebin.com/raw/JNTSczWg
