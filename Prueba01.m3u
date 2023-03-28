@@ -21,5 +21,5 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 
-#EXTINF:-1, tvg-id="CineAr.ar" tvg-logo="https://i.imgur.com/Iozv4tT.png" group-title="Películas",CINE.AR
+#EXTINF:-1, tvg-id="CineAr.ar" tvg-logo="https://play.cine.ar/content/images/f675d053.logo_cinear_play.svg" group-title="Películas",CINE.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
