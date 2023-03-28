@@ -13,7 +13,8 @@ https://sc1.stweb.tv/airedigital/live/playlist.m3u8
 #EXTINF:-1, tvg-id="TVPublica.ar" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.tvp_2021_solo.png.94443cd20174a9375ec25bca58e326ac.png" group-title="Aire",TV Pública
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
-#EXTINF:-1, tvg-id="AmericaTV.ar" tvg-logo="https://media.a24.com/adjuntos/296/imagenes/008/383/0008383157.svg" group-title="Aire",América TV
+#EXTINF:-1, tvg-id="AmericaTV.ar" tvg-logo="https://media.a24.com/adjuntos/296/imagenes/008/383/0008383157.svg" group-title="Aire" user-agent="iPhone",América TV
+#EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
 #EXTINF:-1, tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="Aire" user-agent="iPhone",Crónica TV
