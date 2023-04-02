@@ -25,7 +25,7 @@ http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_2_SUR/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/320px-Fox_Sports_3_Argentina_2023.svg.png" group-title="Deportes",Fox Sports 3
 http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_3_SUR/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TRdHIX9.png" group-title="Deportes", Fox Sports Premium
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="Deportes", Fox Sports Premium
 http://tv.teleclub.xyz/stream/Deportes/FOXSPORTS_PREMIUM/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="Deportes", DirecTV Sports
