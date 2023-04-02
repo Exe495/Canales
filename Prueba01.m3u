@@ -10,6 +10,9 @@ http://tv.teleclub.xyz/stream/Deportes/ESPN_2_SUR/index.m3u8
 #EXTINF:-1, tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes",ESPN 3
 http://tv.teleclub.xyz/stream/Deportes/ESPN_3_SUR/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes",ESPN Extra
+http://tv.teleclub.xyz/stream/Deportes/ESPN_EXTRA/index.m3u8
+
 #EXTINF:-1, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes",Fox Sports
 http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_SUR/index.m3u8
 
