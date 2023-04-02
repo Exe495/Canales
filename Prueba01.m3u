@@ -14,7 +14,7 @@ http://tv.teleclub.xyz/stream/Deportes/ESPN_3_SUR/index.m3u8
 http://tv.teleclub.xyz/stream/Deportes/ESPN_EXTRA/index.m3u8
 
 #EXTINF:-1, ESPN 4 tvg-id="ESPN4.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/320px-ESPN_4_logo.svg.png.94baa236c27d1b47d48584df19f07993.png" group-title="Deportes",ESPN 4
-http://clubtv.link/2623mar/top1347/lista3.php?c=a01h
+http://tv.teleclub.xyz/stream/Deportes/ESPN4/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/320px-Fox_Sports_Argentina_2023.svg.png" group-title="Deportes",Fox Sports
 http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_SUR/index.m3u8
