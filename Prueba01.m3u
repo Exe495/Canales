@@ -13,13 +13,13 @@ http://tv.teleclub.xyz/stream/Deportes/ESPN_3_SUR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes",ESPN Extra
 http://tv.teleclub.xyz/stream/Deportes/ESPN_EXTRA/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes",Fox Sports
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/320px-Fox_Sports_Argentina_2023.svg.png" group-title="Deportes",Fox Sports
 http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_SUR/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes",Fox Sports 2
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/320px-Fox_Sports_2_Argentina_2023.svg.png" group-title="Deportes",Fox Sports 2
 http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_2_SUR/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/fsport3.webp" group-title="Deportes",Fox Sports 3
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/320px-Fox_Sports_3_Argentina_2023.svg.png" group-title="Deportes",Fox Sports 3
 http://tv.teleclub.xyz/stream/Deportes/FOX_SPORTS_3_SUR/index.m3u8
 
 #EXTINF:-1, ESPN 4 tvg-id="ESPN4.ar" tvg-logo="https://forounivers.com/uploads/monthly_2021_12/large.1522528359_ESPN4_Blanco.png.94baa236c27d1b47d48584df19f07993.png" group-title="Deportes",ESPN 4
