@@ -1,7 +1,7 @@
 #EXTINF:-1, TyC Sports tvg-id="TyCSports.ar" tvg-logo="https://statics-files.tycsports.com/frontend/general/img/tyc.svg?v=3" group-title="Deportes",TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
-#EXTINF:-1, Final del mundo tvg-id="TyCSports.ar" tvg-logo="" group-title="Partidos",Final del mundo
+#EXTINF:-1, Final del mundo tvg-id="TyCSports.ar" tvg-logo="https://depor.com/resizer/X0KrVZZ5pKFL039gWPfxo2GJCaU=/1200x675/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/LTG3QGVVFFCWXMYOYHV3OJA3KQ.png" group-title="Partidos",Final del mundo
 https://cdnst46.tokyvideo.com/videos/444/444338/mp4/5b04542b765e848e6b7bb1881911f49518c5a261fc5ec027a6ae4c3fa8572d17.mp4?secure=Px35B4tObXTWQWKbEla0ug%3D%3D%2C1709867900
 
 #EXTINF:-1, King Fu Panda 4 tvg-id="Infinity.ar" tvg-logo="https://img66.tokyvideo.com/videos/524/524743/thumbs/thumbs_0012_custom_1710250971.2396.jpg" group-title="Películas Animadas",Kung Fu Panda 4
