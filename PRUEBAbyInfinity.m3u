@@ -7,10 +7,7 @@ NO DISPONIBLE
 #EXTINF:-1, King Fu Panda 4 tvg-id="Infinity.ar" tvg-logo="https://img66.tokyvideo.com/videos/524/524743/thumbs/thumbs_0012_custom_1710250971.2396.jpg" group-title="Películas Animadas",Kung Fu Panda 4
 https://archive.org/download/infinit-ix/KFP4%20by%20Infinitix.mp4
 
-#EXTINF:-1, Series tvg-id="Infinity.ar" tvg-logo="" group-title="Series", Series
-https://raw.githubusercontent.com/Exe495/Canales/main/Series.m3u
-
-#EXTINF:-1, Series V2 tvg-id="Infinity.ar" tvg-logo="" group-title="Series", Series
+#EXTINF:-1, Series tvg-id="Infinity.ar" tvg-logo="" group-title="Series"
 https://raw.githubusercontent.com/Exe495/Canales/main/Series.m3u
 
 #EXTINF:-1, El Encargado tvg-id="Infinity.ar" tvg-logo="https://media.themoviedb.org/t/p/w454_and_h254_bestv2/wSmN7HYZik94xMch5VeYloVBN0w.jpg" group-title="El Encargado", Temporada 1 - Episodio 1
